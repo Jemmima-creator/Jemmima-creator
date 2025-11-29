@@ -66,7 +66,7 @@ A chatbot that educates users about gender equality and women empowerment (SDG 5
 
 ## 🌍 Let's Connect
 📧 Email: jemmimahmwithalii@gmail.com  
-🔗 LinkedIn: Jemmimah Mwithalii  
+🔗 LinkedIn: https://www.linkedin.com/in/jemmimah-mwithalii-6aa4a1256/  
 👩‍💻 GitHub: **github.com/Jemmima-creator**
 
 ---
